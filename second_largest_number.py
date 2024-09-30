@@ -10,6 +10,6 @@ def find_second_largest_number(elements):
 
     return second_largest
 
-lst=[33,2,2,8,2,5,9,56,6,7,7,7,66,8,0,211,23,4,1,66]
+lst=[33,2,2,8,2,5,9,56,6,7,7,7,66,8,0,211,23,4,1,606]
 output=find_second_largest_number(lst)
 print(output)
