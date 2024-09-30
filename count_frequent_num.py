@@ -9,6 +9,6 @@ def find_frequent_number(lst):
     return frequent
 
 
-lst=[3,5,4,3,33,4,55,7,8,7,65,4,3,36,22,2]
+lst=[3,5,4,3,33,4,55,7,8,7,65,4,3,36,292,2]
 output=find_frequent_number(lst)
 print(output)
