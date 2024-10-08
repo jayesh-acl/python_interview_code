@@ -7,3 +7,8 @@ def factorial(num):
 num=52 
 output=factorial(num)
 print(f"factorial of {num} is {output}")
+
+num=52 
+output=factorial(num)
+print(f"factorial of {num} is {output}")
+
